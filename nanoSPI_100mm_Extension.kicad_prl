@@ -59,7 +59,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "MA735 encoder board.kicad_prl",
+    "filename": "nanoSPI_100mm_Extension.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
@@ -113,7 +113,32 @@
   },
   "open_jobsets": [],
   "project": {
-    "files": []
+    "files": [
+      {
+        "name": "nanoSPI_100mm_Extension.kicad_pcb",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": true,
+          "pos_x": 0,
+          "pos_y": 64,
+          "size_x": 1280,
+          "size_y": 586
+        }
+      },
+      {
+        "name": "nanoSPI_100mm_Extension.kicad_sch",
+        "open": true,
+        "window": {
+          "display": 0,
+          "maximized": true,
+          "pos_x": 367,
+          "pos_y": 230,
+          "size_x": 768,
+          "size_y": 690
+        }
+      }
+    ]
   },
   "schematic": {
     "selection_filter": {

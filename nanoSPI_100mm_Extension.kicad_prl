@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 19,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_netclasses": [],
@@ -123,12 +123,12 @@
           "pos_x": 0,
           "pos_y": 64,
           "size_x": 1280,
-          "size_y": 586
+          "size_y": 532
         }
       },
       {
         "name": "nanoSPI_100mm_Extension.kicad_sch",
-        "open": true,
+        "open": false,
         "window": {
           "display": 0,
           "maximized": true,
